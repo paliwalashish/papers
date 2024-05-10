@@ -7,3 +7,5 @@ Place to add papers as received info, same as Write Ahead Logs
 [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf)
 
 [Raft](https://raft.github.io/raft.pdf)
+
+[Cassandra Availability with Virtual Nodes](https://jolynch.github.io/pdf/cassandra-availability-virtual.pdf)
