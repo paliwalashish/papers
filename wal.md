@@ -9,3 +9,5 @@ Place to add papers as received info, same as Write Ahead Logs
 [Raft](https://raft.github.io/raft.pdf)
 
 [Cassandra Availability with Virtual Nodes](https://jolynch.github.io/pdf/cassandra-availability-virtual.pdf)
+
+[Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://www.scs.stanford.edu/~dm/home/papers/kpos.pdf)
