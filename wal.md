@@ -15,3 +15,5 @@ Place to add papers as received info, same as Write Ahead Logs
 [Automatic Root Cause Analysis via Large Language Models for Cloud Incidents](https://dl.acm.org/doi/pdf/10.1145/3627703.3629553)
 
 [Amazon MemoryDB: A fast and durable memory-first cloud database](https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database)
+
+[Kangaroo: Caching Billions of Tiny Objects on Flash](https://dl.acm.org/doi/pdf/10.1145/3477132.3483568)
